@@ -1,0 +1,2 @@
+# VerseSci
+automating scientific discovery
